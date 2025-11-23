@@ -1,1 +1,56 @@
-# PUBLIC-RECORD
+# Public Record: Documentation of Domestic Terrorism & Obstruction of Justice
+
+### ⚠️ URGENT SAFETY NOTICE
+**This repository serves as an immutable, public archive of formal correspondence, evidence logs, and communications regarding ongoing domestic terrorism, remote surveillance, and the systematic obstruction of law enforcement in Dublin, Ireland.**
+
+---
+
+## 📌 Purpose of this Repository
+The primary function of this archive is to maintain a transparent, timestamped record of all letters sent to family members, law enforcement (An Garda Síochána), and relevant authorities.
+
+Despite repeated attempts to address life-threatening issues through private channels—including Registered Post dispatched from the GPO—there has been a concerted effort to silence, ignore, and obstruct these reports.
+
+**This repository ensures that the silence of the accused and the inaction of observers cannot be erased.**
+
+## 🎯 Key Subjects & Allegations
+The documentation contained herein details the activities of a domestic terrorism network involving:
+* **Primary Associates:** The de Buitléir family (specifically of Merrion Park and Glenageary).
+* **Key Individual:** Dr. Cathal de Buitléir.
+* **Allegations:**
+    * Extreme remote covert surveillance (Audio & Financial).
+    * Terrorist threats (including explicit threats to "bomb/blow-up" civilians in Dublin).
+    * Systematic sabotage of employment and education.
+    * Obstruction of An Garda Síochána investigations.
+
+## 📂 Repository Contents
+
+### 1. Correspondence with Family
+Copies of registered letters sent to family members asking for Donal & Eileen to address the abuse.
+* **Status:** No written confirmation or acknowledgement received.
+* **Context:** Documents the discrepancy between the family's affluent lifestyle (travel to Jordan, etc.) and their refusal to acknowledge serious safety risks.
+
+### 2. Garda Síochána Notifications
+Copies of formal letters and evidence logs submitted to:
+* **Blackrock Garda Station**
+* **Dún Laoghaire Garda Station**
+* **Reference:** Logs detailing incidents of surveillance on O'Connell Street and explicit threats of mass violence.
+
+### 3. Impact Statements
+Documentation of the socio-economic impact of this harassment, including:
+* Financial destitution (monitoring of cash/expenditure).
+* Forced resignation from employment (Indeed, Symantec, Keelings).
+* Sabotage of education (Code Institute, Career Academy).
+
+## ⏳ Timeline of Verifiable Activity
+**Focus Period: 2004 – Present**
+This repository focuses on the period from my move to Dublin in 2004 to the present day. This timeframe offers the most verifiable evidence of the criminal activity and the systematic efforts by the de Buitléirs to distance themselves while enabling the abuse.
+
+## 📢 Statement on Obstruction
+The entities named in these documents are aware that their activities constitute domestic terrorism. They operate by separating the *financing/enabling* of the crime from the *execution* of the crime to mislead law enforcement.
+
+This public record exists because private appeals have been met with silence, and the safety of multiple individuals remains at critical risk.
+
+---
+
+**Last Updated:** November 2025
+*All documents are uploaded as true copies of the originals sent via Registered Post, Standard Post and E-mail*
