@@ -7,7 +7,7 @@
 
 [Parties Involved](https://github.com/Transparency-2025/PUBLIC-RECORD/blob/b2a7f272686e3aecb211d432d3146e4d379449cf/PARTIES_INVOLVED.md)
 
-(Registered Post)
+[Registered Post](https://github.com/Transparency-2025/PUBLIC-RECORD/blob/c64b2bd1332c65423aa45803e29a024e6bb742d1/Re_%20Request%20for%20Written%20Confirmation%20of%20Contact%20Attempts.pdf)
 
 [Letter 1 - Follow Up to Registered Post](https://github.com/Transparency-2025/PUBLIC-RECORD/blob/b2a7f272686e3aecb211d432d3146e4d379449cf/RE_%20URGENT%20Follow-up%20to%20Registered%20Post%20sent%20November%2019%2C%202025.pdf) 
 
