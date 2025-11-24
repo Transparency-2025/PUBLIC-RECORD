@@ -5,6 +5,8 @@
 
 [ILAC Library Audio Recordings & Reaper Project Files on Google Drive - Folder](https://drive.google.com/drive/folders/1yh4YyyxG-1Alv7sixCPwAfGjcxO0TAOT?usp=sharing)
 
+- Note: Recordings from the ILAC Public Library documenting two incidents of the Domestic Terrorism (Multi-modal) attack in progress. Recordings are examples of sound, noise, vibration and EMF/EMI.
+
 [Communication Log](https://github.com/Transparency-2025/PUBLIC-RECORD/blob/b2a7f272686e3aecb211d432d3146e4d379449cf/COMMUNICATION_LOG.md)
 
 [Parties Involved](https://github.com/Transparency-2025/PUBLIC-RECORD/blob/b2a7f272686e3aecb211d432d3146e4d379449cf/PARTIES_INVOLVED.md)
