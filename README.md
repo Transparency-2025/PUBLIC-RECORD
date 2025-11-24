@@ -3,6 +3,8 @@
 ### ⚠️ URGENT SAFETY NOTICE
 **This repository serves as an immutable, public archive of formal correspondence, evidence logs, and communications regarding ongoing domestic terrorism, remote surveillance, and the systematic obstruction of law enforcement in Dublin, Ireland.**
 
+[ILAC Library Audio Recordings & Reaper Project Files on Google Drive - Folder](https://drive.google.com/drive/folders/1yh4YyyxG-1Alv7sixCPwAfGjcxO0TAOT?usp=sharing)
+
 [Communication Log](https://github.com/Transparency-2025/PUBLIC-RECORD/blob/b2a7f272686e3aecb211d432d3146e4d379449cf/COMMUNICATION_LOG.md)
 
 [Parties Involved](https://github.com/Transparency-2025/PUBLIC-RECORD/blob/b2a7f272686e3aecb211d432d3146e4d379449cf/PARTIES_INVOLVED.md)
