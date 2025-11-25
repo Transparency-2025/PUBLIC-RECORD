@@ -29,6 +29,9 @@ Letter 6
 
 [Letter 8 - To Fiosrú – the Office of the Police Ombudsman and Interpol Ireland HQ at An Garda Síochána HQ Phoenix Park](https://google.com)
 
+**Email 2025-11-25 01:39**
+- DeButleir's History of Anti-LGBT+ Behaviour & Medical System Abuse
+
 ## 📌 Purpose of this Repository
 The primary function of this archive is to maintain a transparent, timestamped record of all letters sent to family members, law enforcement (An Garda Síochána), and relevant authorities.
 
